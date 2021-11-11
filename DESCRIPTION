@@ -1,7 +1,7 @@
 Package: iotc.core.utils.constants
 Type: Package
 Title: Core IOTC constants
-Version: 0.2.0
+Version: 0.2.1
 Author: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Maintainer: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Description: A bunch of constants modelling all possible values for IOTC working parties / species groups / species categories
